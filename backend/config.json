@@ -1,0 +1,18 @@
+{
+    "SERVER_API_BASE": "/api",
+    "SERVER_API_PORT": 4242,
+    "MUSIXMATCH_API": "http://api.musixmatch.com/ws/1.1/",
+    "MUSIXMATCH_KEY": "684801402ecbf7f63b56e1820fba5e1f",
+    "artists": [
+        "Taylor Swift",
+        "Ed Sheeran",
+        "The Weeknd",
+        "Justin Bieber",
+        "Mariah Carey",
+        "Elton John",
+        "Beyonce",
+        "Lady Gaga",
+        "Adele",
+        "Michael Jackson"
+    ]
+}
